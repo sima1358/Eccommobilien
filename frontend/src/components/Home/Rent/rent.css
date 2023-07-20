@@ -1,0 +1,48 @@
+.rent-main-container {
+  color: #fff;
+}
+
+.rent-card-container {
+  display: grid;
+  grid-template-columns: 15% 15% 15% 15% 15%;
+  gap: 2rem;
+  padding: 2rem;
+  justify-content: center;
+}
+
+.rent-card-image {
+  margin-bottom: 1rem;
+}
+
+.Link {
+  text-decoration: none;
+  color: #27ae60;
+  font-weight: bold;
+  font-size: 20px;
+ }
+/* ================ */
+/* css for Detail Rent */
+.detail-rent-container {
+  padding: 5rem;
+  justify-content: center;
+  text-align: center;
+}
+
+.image-detail-rent {
+  padding: 1rem;
+  width: 20rem;
+  height: 20rem;
+}
+
+.fileNumber-details {
+  color: #fff;
+  font-size: 35px;
+}
+
+.description-details {
+  font-size: 20px;
+  color: aliceblue;
+  text-align: justify;
+  width: 50%;
+  margin: auto;
+}

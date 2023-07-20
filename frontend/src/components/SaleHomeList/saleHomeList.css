@@ -1,0 +1,40 @@
+.sale {
+  background-color: rgb(231, 229, 229);
+}
+
+.heading {
+  text-align: center;
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.saleCard {
+  display: flex;
+  box-shadow: 0 0 20px 0 rgba(112, 121, 138, 0.658);
+  justify-content: center;
+ }
+ 
+.sale-content {
+  margin: 1rem;
+  box-shadow: 0 0 20px 0 rgba(112, 121, 138, 0.658);
+  border-radius: 10px;
+   width: 23rem;
+
+}
+
+.sale-card-property {
+  padding: 0.5rem 1rem;
+}
+.saleImg {
+  width: 20rem;
+   padding-top: 2rem;
+  padding-left: 2rem;
+  align-items: center;
+   justify-content: center;
+  }
+
+.sale-btn {
+  align-items: center;
+  width: 7rem;
+  border-radius: 10px;
+}

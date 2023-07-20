@@ -1,0 +1,36 @@
+.rent {
+  background-color: rgb(231, 229, 229);
+  margin-top: 1rem;
+}
+
+.heading {
+  margin: auto;
+  text-align: center;
+  padding: 2rem 0;
+}
+.rentCard {
+  display: flex;
+  margin: auto;
+  box-shadow: 0 0 20px 0 rgba(112, 121, 138, 0.658);
+  justify-content: center;
+}
+.rent-content {
+  margin: 1rem;
+  box-shadow: 0 0 20px 0 rgba(112, 121, 138, 0.658);
+  border-radius: 10px;
+}
+
+.rent-card-property {
+  padding: 0.5rem 1rem;
+}
+.rentImg {
+  width: 20rem;
+  padding-left: 2rem;
+  padding-top: 2rem;
+}
+
+.rent-btn {
+  align-items: center;
+  width: 7rem;
+  border-radius: 10px;
+}

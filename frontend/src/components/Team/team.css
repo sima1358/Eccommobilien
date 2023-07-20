@@ -1,0 +1,27 @@
+.our-team {
+   justify-content: center;
+  display: flex;
+}
+
+.team-card {
+   text-align: center;
+}
+
+.team-img {
+  width: 13rem;
+  height: 13rem;
+  border-radius: 100px;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.team-card {
+   width: 20rem;
+  height: 30rem;
+  margin: 2rem;
+}
+.team-content {
+  margin: 1rem;
+  text-align: justify;
+}

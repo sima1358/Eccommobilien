@@ -1,0 +1,62 @@
+.home {
+  background-image: url("../../img/backImg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  /* vh viewport height */
+  height: 90vh;
+  width: 100%;
+}
+
+#bgr-img {
+  width: 100%;
+  height: 80rem;
+}
+
+.search {
+  width: 80%;
+  height: 15rem;
+  display: flex;
+  margin: auto;
+}
+.search-title {
+  position: relative;
+  text-align: center;
+  color: #fff;
+  padding-top: 10rem;
+}
+
+.search-property {
+  font-size: 22px;
+  margin: auto;
+}
+
+input {
+  border-radius: 5px;
+  padding-left: 1rem;
+  justify-content: center;
+  height: 3rem;
+}
+.btn-search {
+  color: white;
+  font-size: 18px;
+  text-align: center;
+  width: 5rem;
+  border-radius: 5px;
+}
+
+.scroll-tp {
+  display: flex;
+  background-color: white;
+  margin: 1rem auto;
+  font-size: 5rem;
+}
+
+#price-range,
+#living-space {
+  width: 10rem;
+}
+
+input {
+  font-size: 1rem;
+}

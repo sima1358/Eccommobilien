@@ -1,0 +1,20 @@
+#footer-content {
+  height: 15rem;
+  margin: 1rem auto;
+  text-align: center;
+  padding: 3rem;
+  box-shadow: 0 0 20px 0 rgba(112, 121, 138, 0.658);
+  border-radius: 10px;
+}
+
+.box {
+   border-radius: 6px;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+@media screen and (max-width: 768px) {
+}
